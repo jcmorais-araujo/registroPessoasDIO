@@ -1,6 +1,7 @@
-<h2>Digital Innovation: Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h
+<strong>Digital Innovation: Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</strong>
+<hr>
 
-Para executar o projeto no terminal, digite o seguinte comando:
+Para executar o projeto, no terminal, digite o seguinte comando:
 
 ```shell script
 mvn spring-boot:run 
